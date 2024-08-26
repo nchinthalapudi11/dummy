@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 04B3-0F28
+
+ Directory of C:\Users\nchin\OneDrive\Desktop\java
+
+08/26/2024  04:56 PM    <DIR>          .
+08/26/2024  04:16 PM    <DIR>          ..
+08/26/2024  04:56 PM                 0 file1.txt
+08/26/2024  04:18 PM               428 Test.class
+08/26/2024  04:15 PM               130 Untitled.java
+               3 File(s)            558 bytes
+               2 Dir(s)  298,265,071,616 bytes free
